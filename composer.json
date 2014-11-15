@@ -1,0 +1,15 @@
+{
+    "name": "navi",
+    "description": "Navi Application Template",
+    "keywords": ["navi", "framework"],
+    "homepage": "http://lifeandline.com",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "config": {
+        "process-timeout": 1800
+    }
+}
