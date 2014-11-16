@@ -1,4 +1,4 @@
 navi
 ====
 
-A PHP Framework
+Navi Framework - The PHP Framework
