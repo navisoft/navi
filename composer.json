@@ -1,6 +1,5 @@
 {
     "name": "navi/framework",
-<<<<<<< HEAD
     "description": "The PHP Framework.",
     "keywords": ["framework", "navi"],
     "license": "BSD-3-Clause",
@@ -20,22 +19,3 @@
         }
     },
     "minimum-stability": "dev"
-=======
-    "description": "Navi Application Template",
-    "keywords": ["navi", "framework"],
-    "homepage": "http://lifeandline.com",
-    "type": "project",
-    "license": "BSD-3-Clause",
-    "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.4.0",
-        "navi/framework": "1.*"
-    },
-    "require-dev": {
-        "navi/framework": "1.*"
-    },
-    "config": {
-        "process-timeout": 1800
-    }
->>>>>>> 1640914814923290079bfe793df5f26d1abb03f2
-}
