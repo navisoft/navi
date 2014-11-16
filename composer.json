@@ -8,10 +8,10 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-        "navi/navi-framework": "1.*"
+        "navi/framework": "1.*"
     },
     "require-dev": {
-        "navi/navi-framework": "1.*"
+        "navi/framework": "1.*"
     },
     "config": {
         "process-timeout": 1800
