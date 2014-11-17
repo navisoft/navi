@@ -1,6 +1,5 @@
 {
     "name": "navi/framework",
-    "version": "1.0.0",
     "description": "The PHP Framework.",
     "keywords": ["framework", "navi"],
     "license": "BSD-3-Clause",
